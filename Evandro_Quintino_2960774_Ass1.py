@@ -4,6 +4,8 @@ from PyQt5.QtWidgets import QLabel, QComboBox, QCalendarWidget, QDialog, QApplic
 from PyQt5 import QtGui
 from decimal import Decimal
 
+# Test  Evandro aqui eh um test
+
 
 class StockTradeProfitCalculator(QDialog):
 
