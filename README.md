@@ -10,4 +10,4 @@ Finally, user should get his profit which would be indicated by a integer in gre
 ## Requirements:
 
 
-[Project's Documentation](../master/BSC-HGP - Assignment 01 - Evandro Gomez Quintino)
+[Project's Documentation](BSC-HGP - Assignment 01 - Evandro Gomez Quintino.docx)
