@@ -13,6 +13,6 @@ Finally, user should get his profit which would be indicated by a integer in gre
 [Project's Documentation](EvandroGomezQuintino/tradeStockCalculator/master/BSC-HGP - Assignment 01 - Evandro Gomez Quintino.docx)
 
 
-[Project's Documentation](../blob/master/BSC-HGP - Assignment 01 - Evandro Gomez Quintino)
+[Project's Documentation](https://github.com/EvandroGomezQuintino/tradeStockCalculator/blob/master/BSC-HGP%20-%20Assignment%2001%20-%20Evandro%20Gomez%20Quintino.docx)
 
 [Project's Documentation](BSC-HGP - Assignment 01 - Evandro Gomez Quintino.docx)
