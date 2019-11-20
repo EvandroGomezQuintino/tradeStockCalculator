@@ -9,4 +9,4 @@ Finally, user should get his profit which would be indicated by a integer in gre
 
 ## Requirements:
 
-[Project's Documentation](../master/tradeStockCalculator/BSC-HGP - Assignment 01 - Evandro Gomez Quintino)
+[Project's Documentation](../tradeStockCalculator/BSC-HGP - Assignment 01 - Evandro Gomez Quintino)
