@@ -8,6 +8,7 @@ After running the program, simply select the stock trader followed by the quanti
 Finally, user should get his profit which would be indicated by a integer in green color. In case of negative values, user should get an integer in red color.
 
 ## Requirements:
+[Requirements](https://github.com/EvandroGomezQuintino/tradeStockCalculator/blob/master/BSC%E2%80%93HGP%20-%20Assignment%2001%20-%20Specificationv3.pdf)
 
 [Project's Documentation](https://github.com/EvandroGomezQuintino/tradeStockCalculator/blob/master/BSC-HGP%20-%20Assignment%2001%20-%20Evandro%20Gomez%20Quintino.docx)
 
