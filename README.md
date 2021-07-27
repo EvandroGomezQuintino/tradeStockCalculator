@@ -1,5 +1,7 @@
 # Trade Stock Calculator
 
+![stocktrade](https://github.com/Ramisar/tradeStockCalculator/blob/master/thumbnail_stocktrade.jpg)
+
 This project is based on PyQT5 and using different libraries, stock trade data from the past five years were loaded into it and used to calculate if user had or not profit when selecting specific dates for purchase/selling.
 
 ## How to use?
